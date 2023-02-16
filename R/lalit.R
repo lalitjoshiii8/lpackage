@@ -1,7 +1,7 @@
 #' create histogram , boxplot and numeric summary
 #' @export
 #' @param x numeric variable
-AIML<-function(x){
+lalit<-function(x){
 
   #1row 2 column
 
